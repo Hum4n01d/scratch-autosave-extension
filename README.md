@@ -13,7 +13,7 @@ Automatically saves your scratch projects once per second
 
 ![enable developer mode](https://i.imgur.com/m3SwtNH.png)
 
-4. Click the "Load unpacked" button and select the folder inside the unzipped folder named "scratch-autosave-extension"
+4. Click the "Load unpacked" button and select the folder inside the unzipped folder named "scratch-autosave" **Do not pick the folder called "scratch-autosave-master"**
 
 ![load the extension](https://i.imgur.com/LHOwg7B.png)
 

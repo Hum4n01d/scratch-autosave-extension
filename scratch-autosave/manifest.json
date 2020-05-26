@@ -1,0 +1,11 @@
+{
+  "name": "scratch-autosave",
+  "version": "1.0",
+  "description": "autosaves scratch projects",
+  "permissions": ["activeTab"],
+  "content_scripts": [{
+    "matches": ["http://scratch.mit.edu/projects/*", "https://scratch.mit.edu/projects/*"],
+    "js": ["./content.js"]
+  }],
+  "manifest_version": 2
+}
